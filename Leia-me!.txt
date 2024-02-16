@@ -1,0 +1,61 @@
+====================================================================
+=====================//Dragon Shadow - A Caixa Mágica\\=====================
+====================================================================
+– Projeto Dragon Shadow  –
+Ficha Técnica:
+Autor: Ronaldo Rodrigues Bento
+Gênero: [RPG Fantasia, Visual Novel e Puzzle]
+Engine: RPG Maker VX Ace
+Faixa Etária: Para maiores de 13 anos
+Roteiro original: Ronaldo Rodrigues Bento
+Game Design: Ronaldo Rodrigues Bento
+Level Design: Ronaldo Rodrigues Bento
+Idioma: Português Brasileiro
+Precisa de RTP? Sim.
+Número de finais: [2]
+Gráficos:
+Tilesets - Celianna - Cronus Victor A. - PandaMaru
+Characters - Lunar: Silver Star Harmony(Game Arts)PSP
+Battlers - Crossed Swords II(ADK) Neo Geo CD
+Pictures - Fire Emblem: Path of Radiance(Intelligent Systems) GameCube
+Scripts:
+MogHunter, Galv's, Zeus e Yanfly
+Áudio: BGM, BGS, ME, SE 
+Caio Varalta, Kelvin MacLeod, RMN Music Pack 2
+Vozes: The King of Fighters(SNK)
+
+==================================//================================
+
+#COMO JOGAR:
+
+O jogo possúi diversos sistemas que interagem com o jogador.
+
+==================================//================================
+
+#Créditos de todos os recursos com nome de seus respectivos autores:
+ 
+--------------------------------------------------------------------
+
++Gráficos Editados: - Ronaldo Rodrigues Bento
+
+--------------------------------------------------------------------
+
++Scripts - 
+MogHunter - Galv's - Zeus - Yanfly
+
+--------------------------------------------------------------------
+Gráficos das Cinemáticas: Cing
+--------------------------------------------------------------------
+
++Áudio  - BGM, BGS, ME, SE:
+               RMN Music Pack (OGG)2
+	       kelvin MacLeod 
+               Caio Varalta
+
+--------------------------------------------------------------------
++Fonte - Bariol_Serif_Regular
+--------------------------------------------------------------------
++Vozes - The King of Fighters (SNK) 
+==================================//================================
+
++Desde já, agradeço aos que jogaram!
